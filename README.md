@@ -1,1 +1,1 @@
-# CtrlApp
+# CtrlApp programik kontrolny
